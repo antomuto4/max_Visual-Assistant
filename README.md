@@ -1,31 +1,38 @@
-## max_Visual-Assistant
+# Max Visual Assistant
 
-**[still in development]**
+## [CURRENTLY DEVELOPING]
 
-Max is a free open source visual assistant made in c++ [TUI](https://en.wikipedia.org/wiki/Text-based_user_interface) or [GUI(with speech)](https://en.wikipedia.org/wiki/Graphical_user_interface). </br>
+### About Max
+
+- Max is a Free and Open-Source Visual Assistant with Speech made in C++, Including both a ***[TUI](https://en.wikipedia.org/wiki/Text-based_user_interface)*** and ***[GUI](https://en.wikipedia.org/wiki/Graphical_user_interface)***. </br>
 
 ## What can I do with max?
-- make him execute commands through text and speech
-- make him search topics on wikipedia
-- laugh at the jokes he makes
 
-## Is max free and open source?
-**yes**, max is free and open source, that means that you can both
-download its code and customize it for your own and don't have to be rich.
+- Execute commands through Text and Speech 
+- Research Wikipedia Articles
+- Read some random jokes
+- And a lot more upcoming in the near future..
 
-## A little demonstration so far (gets updated with the official releas)
-demo.mp4 is a little demonstration of what it can do so far.
+### FAQ
 
-## What is needed to use max?
-Linux Terminal
-lynx (text based webrowser) </br>
-    **Debian:** apt-get install lynx </br>
-    **Arch:** pacman -S lynx </br>
+## Is Max Free and  Open-Source?
 
-## How to use max
-Text:</br>
-  !cmd <command> </br>
-  !s <topic> lynx </br>
+**Yes**, Max is free and open source, that means that you can both use this code and customize it as you please.
+
+## Is there a demo?
+- There will indeed be an **[.mp4](https://github.com/Kylian-tm/max_Visual-Assistant/blob/main/demo.mp4)** file where you can check out it's current stage. ***Keep in mind that this will be updated over time.***
+
+### Prerequisites:
+[Lynx](https://en.wikipedia.org/wiki/Lynx_(web_browser)) </br>
+
+`Debian: $ apt-get install lynx`
+
+`Arch: $ pacman -S lynx`
+
+## Usage
+***Text-Based Commands:***</br>
+  `!cmd <command>` </br>
+  *Wikipedia Search:* `!s <topic> lynx`</br>
  </br>
- Speech: </br>
-  Under development </br>
+ ~~Speech-Based Commands:~~ </br>
+  ~~***Still Under Development***~~ </br>
