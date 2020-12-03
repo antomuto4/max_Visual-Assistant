@@ -15,9 +15,7 @@ All those things in either [TUI](https://en.wikipedia.org/wiki/Text-based_user_i
 download its code and customize it for your own and don't have to be rich.
 
 ## A little demonstration so far (gets updated with the official releas)
-<video width="320" height="240" controls>
-  <source src="demo.mp4" type="video/mp4">
-</video>
+demo.mp4 is a little demonstration of what it can do so far.
 
 ## What is needed to use max?
 Linux Terminal
