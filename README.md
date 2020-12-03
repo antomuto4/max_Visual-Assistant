@@ -1,9 +1,8 @@
 ## max_Visual-Assistant
 
-[still in development]
+**[still in development]**
 
-Max is a free open source visual assistant made in c++. </br>
-All those things in either [TUI](https://en.wikipedia.org/wiki/Text-based_user_interface) or [GUI(with speech)](https://en.wikipedia.org/wiki/Graphical_user_interface).
+Max is a free open source visual assistant made in c++ [TUI](https://en.wikipedia.org/wiki/Text-based_user_interface) or [GUI(with speech)](https://en.wikipedia.org/wiki/Graphical_user_interface). </br>
 
 ## What can I do with max?
 - make him execute commands through text and speech
