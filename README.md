@@ -16,7 +16,7 @@ download its code and customize it for your own and don't have to be rich.
 
 ## A little demonstration so far (gets updated with the official releas)
 <video width="320" height="240" controls>
-  <source src="github/demo.mp4" type="video/mp4">
+  <source src="demo.mp4" type="video/mp4">
 </video>
 
 ## What is needed to use max?
