@@ -1,1 +1,3 @@
-## max_visual-Asistant
+## max_Visual-Assistant
+
+max is a visual assistant
