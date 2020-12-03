@@ -1,7 +1,0 @@
-(standard)*text only
-add command [√]
-add search  [√]
-
-(later)*text+speech
-humor	    [ ]
-add speech  [ ]  pacman -S espeak (for making your pc speak)
